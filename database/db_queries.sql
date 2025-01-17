@@ -1,0 +1,8 @@
+DROP DATABASE IF EXISTS Game;
+CREATE DATABASE Game;
+USE Game;
+CREATE TABLE IF NOT EXISTS Dictionary (
+    id INT(10) PRIMARY KEY AUTO_INCREMENT,
+    word VARCHAR(50) NOT NULL,
+    difficulty varchar(20)
+);
