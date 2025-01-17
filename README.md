@@ -20,3 +20,6 @@ A Java-based  application where users form words from random letters to score po
 ## Screenshots
 ### 1. Correct Word Example
 ![Screenshot](Screenshots/image1.png)
+![Screenshot](Screenshots/image2.png)
+### 2.Invalid Word Example
+![Screenshot](Screenshots/image3.png)
