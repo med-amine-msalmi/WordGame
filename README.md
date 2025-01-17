@@ -19,5 +19,4 @@ A Java-based  application where users form words from random letters to score po
    git clone https://github.com/your-username/word-game.git
 ## Screenshots
 ### 1. Correct Word Example
-(Screenshots\image1.png)
-(Screenshots\image2.png)
+![Screenshot](Screenshots/image1.png)
