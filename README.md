@@ -16,7 +16,7 @@ A Java-based  application where users form words from random letters to score po
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/word-game.git
+   git clone https://github.com/medamin777/WordGame.git
 ## Screenshots
 ### 1. Correct Word Example
 ![Screenshot](Screenshots/image2.png)
